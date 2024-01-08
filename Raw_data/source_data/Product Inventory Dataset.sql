@@ -1,0 +1,10 @@
+insert into Product Inventory Dataset (Product ID, Product Name, Category, Price, Stock Quantity, Supplier ID) values (5, 'TV', 'Electronics', 274.9, 8196, 2);
+insert into Product Inventory Dataset (Product ID, Product Name, Category, Price, Stock Quantity, Supplier ID) values (3, 'TV', 'Electronics', 245.3, 7728, 1);
+insert into Product Inventory Dataset (Product ID, Product Name, Category, Price, Stock Quantity, Supplier ID) values (4, 'TV', 'IT', 689.87, 6505, 3);
+insert into Product Inventory Dataset (Product ID, Product Name, Category, Price, Stock Quantity, Supplier ID) values (1, 'TV', 'Electronics', 197.15, 6663, 3);
+insert into Product Inventory Dataset (Product ID, Product Name, Category, Price, Stock Quantity, Supplier ID) values (4, 'TV', 'Books', 323.93, 3869, 1);
+insert into Product Inventory Dataset (Product ID, Product Name, Category, Price, Stock Quantity, Supplier ID) values (1, 'TV', 'Home', 449.27, 3463, 3);
+insert into Product Inventory Dataset (Product ID, Product Name, Category, Price, Stock Quantity, Supplier ID) values (4, 'TV', 'Electronics', 771.95, 5876, 2);
+insert into Product Inventory Dataset (Product ID, Product Name, Category, Price, Stock Quantity, Supplier ID) values (4, 'TV', 'Books', 658.73, 765, 2);
+insert into Product Inventory Dataset (Product ID, Product Name, Category, Price, Stock Quantity, Supplier ID) values (5, 'TV', 'Books', 414.64, 1733, 3);
+insert into Product Inventory Dataset (Product ID, Product Name, Category, Price, Stock Quantity, Supplier ID) values (2, 'TV', 'IT', 721.75, 7672, 1);

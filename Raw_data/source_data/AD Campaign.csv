@@ -1,0 +1,21 @@
+Campaign ID,Advertiser ID,Campaign Name,Advertiser Name,Start Date,End Date,Audience,Ad Format,Impressions,Clicks,Click-Through-Rate(CTR),Conversions,Cost,Revenue,CPM,RPM,Return of Investment(ROI)
+1,4,"Whale, long-finned pilot",Instagram Ads,04/26/2021,01/01/2022,Tech-Savvy Millennials,Text,49981,2470,-99.0,706,1955.51,1573.86,-99.0,-99.0,-99.0
+2,1,"Bison, american",Google Ads,11/24/2022,08/02/2020,Children,Text,141834,6196,-99.0,137,1588.11,1318.6,-99.0,-99.0,-99.0
+3,1,White-necked raven,Google Ads,07/22/2020,06/11/2021,Women,Shopping,147092,5797,-99.0,537,224.8,2850.84,-99.0,-99.0,-99.0
+4,2,Eurasian hoopoe,Tiktok Ads,01/16/2021,04/23/2022,General,Call-only,377768,5761,-99.0,330,1592.35,3976.88,-99.0,-99.0,-99.0
+5,4,"Legaan, ground",Tiktok Ads,04/07/2021,03/27/2022,Tech-Savvy Millennials,Image,154123,7059,-99.0,263,1435.99,2025.92,-99.0,-99.0,-99.0
+6,4,"Kangaroo, western grey",Facebook Ads,06/30/2022,09/07/2021,Tech-Savvy Millennials,Video,96592,4797,-99.0,592,208.81,2104.0,-99.0,-99.0,-99.0
+7,1,White-faced tree rat,Instagram Ads,03/21/2020,06/04/2020,Children,Mobile,759122,7488,-99.0,207,1866.48,2898.07,-99.0,-99.0,-99.0
+8,1,"Cat, native",Google Ads,08/22/2021,07/30/2022,Men,Text,839508,4120,-99.0,604,294.1,627.53,-99.0,-99.0,-99.0
+9,4,Snowy sheathbill,Facebook Ads,09/10/2021,07/08/2021,Tech-Savvy Millennials,Mobile,349611,1231,-99.0,40,102.77,436.72,-99.0,-99.0,-99.0
+10,1,Ringtail cat,Tiktok Ads,09/14/2020,02/21/2021,Men,Shopping,467955,5739,-99.0,21,632.3,3393.2,-99.0,-99.0,-99.0
+11,2,"Gecko, tokay",Google Ads,06/05/2021,05/25/2020,Young Professionals,Image,505240,3862,-99.0,636,131.93,2906.45,-99.0,-99.0,-99.0
+12,3,Red-tailed phascogale,Google Ads,10/12/2020,02/16/2021,Men,Video,463965,8591,-99.0,335,426.45,2715.55,-99.0,-99.0,-99.0
+13,4,Giant girdled lizard,Facebook Ads,06/09/2020,09/23/2021,Men,Text,483553,1574,-99.0,531,1311.12,3607.55,-99.0,-99.0,-99.0
+14,1,Swallow (unidentified),Instagram Ads,08/11/2022,02/19/2021,General,Responsive,292386,2771,-99.0,350,1275.3,2536.2,-99.0,-99.0,-99.0
+15,1,Brush-tailed phascogale,Google Ads,05/10/2022,06/08/2022,Children,Mobile,850650,1970,-99.0,30,225.98,2639.01,-99.0,-99.0,-99.0
+16,2,Red-billed toucan,Google Ads,04/26/2020,08/15/2021,Tech-Savvy Millennials,Mobile,216000,3475,-99.0,886,1735.87,2461.11,-99.0,-99.0,-99.0
+17,1,"Owl, white-browed",Instagram Ads,11/01/2021,06/23/2020,Tech-Savvy Millennials,Video,581074,5617,-99.0,676,1446.17,156.63,-99.0,-99.0,-99.0
+18,4,"Dragon, asian water",Instagram Ads,02/18/2021,07/06/2021,General,Shopping,862627,1448,-99.0,663,1247.56,3519.72,-99.0,-99.0,-99.0
+19,1,"Cow, scottish highland",Instagram Ads,11/24/2020,09/22/2020,Women,Video,218165,4032,-99.0,971,943.51,2405.14,-99.0,-99.0,-99.0
+20,2,"Kingfisher, malachite",Facebook Ads,07/13/2021,03/22/2020,Men,Call-only,210421,6210,-99.0,440,126.04,1815.47,-99.0,-99.0,-99.0
